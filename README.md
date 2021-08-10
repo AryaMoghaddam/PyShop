@@ -1,6 +1,5 @@
 
-====================
-django-MusicShop
+Django-MusicShop
 ====================
 
 .. image:: https://github.com/Django-PyShop/Django-PyShop/actions/workflows/django-PyShop-ci.yml/badge.svg
