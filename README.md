@@ -9,5 +9,6 @@ django-MusicShop
    
    :alt: Build status on Github
    
-   .. image:: https://img.shields.io/pypi/djversions/django-import-export
+   .. image:: https://img.shields.io/pypi/djversions/django-PyShop
+    
     :alt: PyPI - Django Version
