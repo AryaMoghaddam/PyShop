@@ -50,6 +50,7 @@ This is a website that displays different musical instruments, and demonstrates 
 |	db.sqlite3 : SQLite database
 |
 
+```
 
 ### Instructions:
 1. Run the following commands in the project's therminal to set up your database and model.
