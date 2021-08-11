@@ -49,6 +49,8 @@ This is a website that displays different musical instruments, and demonstrates 
 |	manage.py : Python file that when run launches the web app
 |	db.sqlite3 : SQLite database
 |
+
+
 ### Instructions:
 1. Run the following commands in the project's therminal to set up your database and model.
 
