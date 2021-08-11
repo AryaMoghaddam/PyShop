@@ -65,5 +65,9 @@ This is a website that displays different musical instruments, and demonstrates 
 
 3. Go to http://127.0.0.1:8000/products/
 
+### Admin Panel:
+
+C:\Users\aryaj\Downloads
+
 
 
