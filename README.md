@@ -67,7 +67,7 @@ This is a website that displays different musical instruments, and demonstrates 
 
 ### Admin Panel:
 
-C:\Users\aryaj\Downloads
+C:\Users\aryaj\Downloads\Admin Log in.jpg
 
 
 
