@@ -72,10 +72,10 @@ This is a website that displays different musical instruments, and demonstrates 
 ### A quick look in the Admin Page:
 ![Screenshot (27)](https://user-images.githubusercontent.com/63557848/129084809-b6bfd362-332c-4229-9dec-2d825cd17a78.png)
 
-### How to run the server:(Page adjusts itself for any device(phone,Laptop, big screen,...)
-![image](https://user-images.githubusercontent.com/63557848/129084983-13ae318c-d185-49cf-a049-5d520b342631.png)
+### How to run the server:
+![Screenshot (20)](https://user-images.githubusercontent.com/63557848/129085260-ee12020f-dfeb-4198-be38-a96ade23901f.png)
 
-### Looks!
+### Looks!(Page adjusts itself for any device(phone,Laptop, big screen,...)
 ![image](https://user-images.githubusercontent.com/63557848/129084983-13ae318c-d185-49cf-a049-5d520b342631.png)
 
 
