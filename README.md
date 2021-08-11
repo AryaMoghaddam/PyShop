@@ -16,8 +16,7 @@ Django-MusicShop is an interactive sample website for music lovers who want to s
 This is a website that displays different musical instruments, and demonstrates varios prices and icons via an engaging template writen in HTMl alongside an add to cart button to really deliver a feeling of a real online Music shop!
 ### Files
 ```
-│   .gitignore : files ignored by git
-│   README.md : This file
+
 │
 ├───Products
 │   │   admin.py  : File that builds the admin module, via which the admin can add and discount different products
