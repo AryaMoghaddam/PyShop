@@ -67,7 +67,11 @@ This is a website that displays different musical instruments, and demonstrates 
 
 ### Admin Panel:
 
-C:\Users\aryaj\Downloads\Admin Log in.jpg
+![Screenshot (15)](https://user-images.githubusercontent.com/63557848/129075833-794a51ff-5e1d-4917-8453-b3df31141956.png)
+
+### A quick look in the Admin Page:
+![Screenshot (17)](https://user-images.githubusercontent.com/63557848/129076152-ec03c697-cac5-4ef2-b73b-d990282b8d4a.png)
+
 
 
 
