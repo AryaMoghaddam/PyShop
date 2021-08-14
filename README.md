@@ -76,7 +76,7 @@ This is a website that displays different musical instruments, and demonstrates 
 ![Screenshot (20)](https://user-images.githubusercontent.com/63557848/129085260-ee12020f-dfeb-4198-be38-a96ade23901f.png)
 
 ### Looks!(Page adjusts itself for any device(phone,Laptop, big screen,...)
-![image](https://user-images.githubusercontent.com/63557848/129084983-13ae318c-d185-49cf-a049-5d520b342631.png)
+![Screenshot (30)](https://user-images.githubusercontent.com/63557848/129432730-280d65ea-0344-4eeb-8a76-943fafba7c34.png)
 
 
 
