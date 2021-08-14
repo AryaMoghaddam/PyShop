@@ -75,7 +75,7 @@ This is a website that displays different musical instruments, and demonstrates 
 ### How to run the server:
 ![Screenshot (20)](https://user-images.githubusercontent.com/63557848/129085260-ee12020f-dfeb-4198-be38-a96ade23901f.png)
 
-### Looks!(Page adjusts itself for any device(phone,Laptop, big screen,...)
+### Looks!(Page adjusts itself for any device(phone,Laptop, bigger screens...)
 ![Screenshot (30)](https://user-images.githubusercontent.com/63557848/129432730-280d65ea-0344-4eeb-8a76-943fafba7c34.png)
 
 
