@@ -2,7 +2,7 @@
 Django-MusicShop
 ====================
 
-Django-MusicShop is an interactive sample website for music lovers who want to shop for an instrument. Website is built to work on any device as it adjusts the icons depending on the screen capacity and overall delivers quite an exciting vibe as the user scrolls down to find their desired instrument!
+Django-MusicShop is an interactive sample website for music lovers who want to shop for an instrument. The website is built to work on any device as it adjusts the icons depending on the screen capacity and delivers an exciting vibe as the user scrolls down to find their desired instrument!
 
 
 
