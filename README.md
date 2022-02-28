@@ -78,5 +78,3 @@ This is a website that displays different musical instruments, and demonstrates 
 ### Looks!(Page adjusts itself for any device(phone,Laptop, bigger screens...)
 ![Screenshot (30)](https://user-images.githubusercontent.com/63557848/129432730-280d65ea-0344-4eeb-8a76-943fafba7c34.png)
 
-
-asdhagsdcvaflm 
